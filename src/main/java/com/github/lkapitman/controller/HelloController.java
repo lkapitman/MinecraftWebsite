@@ -1,4 +1,4 @@
-package com.github.lkapitman;
+package com.github.lkapitman.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
